@@ -5,7 +5,7 @@
 ## :rocket: Sobre a página
 
 Este é um script python simples que é executado em segundo plano e registra as teclas desse sistema.
-Isto é apenas para fins educacionais, não use para quaisquer meios antiéticos,
+Este programa é apenas para fins educacionais, não use para quaisquer meios antiéticos,
 
 #### :wrench: Techs utilizadas:
 * _Python
